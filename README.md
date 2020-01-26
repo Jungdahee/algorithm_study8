@@ -3,7 +3,7 @@
 알고리즘 스터디를 위한 공간
 
 ## :pushpin: convention rule
-깃허브 ID_문제출처문제번호.파일명
+### 깃허브 ID_문제출처문제번호.파일명
 
 #### 문제 출처
 * 백준 -> BOJ
@@ -14,7 +14,8 @@
 > ex) Jungdahee_BOJ1234.java
 
 
-* 2020 - 01 - Week3
+
+### * 2020 - 01 - Week3
   * [미로 탐색](https://www.acmicpc.net/problem/2178)
   * [연구소](https://www.acmicpc.net/problem/14502)
   * [영역구하기](https://www.acmicpc.net/problem/2583)
