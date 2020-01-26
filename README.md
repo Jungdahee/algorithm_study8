@@ -5,13 +5,13 @@
 ## :pushpin: convention rule
 깃허브 ID_문제출처문제번호.파일명
 
-문제 출처
+#### 문제 출처
 * 백준 -> BOJ
 * 프로그래머스 -> PRO
 * SW expert academy -> SWEA
 * 정보 올림피아드 -> JUNGOL
 
-ex) Jungdahee_BOJ1234.java
+> ex) Jungdahee_BOJ1234.java
 
 
 * 2020 - 01 - Week3
