@@ -14,8 +14,8 @@
 > ex) Jungdahee_BOJ1234.java
 
 
-
-### * 2020 - 01 - Week3
+## :books: 문제 목록
+* 2020 - 01 - Week3
   * [미로 탐색](https://www.acmicpc.net/problem/2178)
   * [연구소](https://www.acmicpc.net/problem/14502)
   * [영역구하기](https://www.acmicpc.net/problem/2583)
