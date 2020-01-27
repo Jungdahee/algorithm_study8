@@ -3,7 +3,7 @@
 알고리즘 스터디를 위한 공간
 
 ## :pushpin: convention rule
-### 깃허브 ID_문제출처문제번호.파일명
+### 깃허브 ID_문제출처_문제번호.파일명
 
 #### 문제 출처
 * 백준 -> BOJ
@@ -11,7 +11,7 @@
 * SW expert academy -> SWEA
 * 정보 올림피아드 -> JUNGOL
 
-> ex) Jungdahee_BOJ1234.java
+> ex) Jungdahee_BOJ_1234.java
 
 
 ## :books: 문제 목록
