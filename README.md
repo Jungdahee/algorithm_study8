@@ -23,4 +23,10 @@
   * [톱니바퀴](https://www.acmicpc.net/problem/14891)
   * [퇴사](https://www.acmicpc.net/problem/14501)
   * [부분 수열의 합](https://www.acmicpc.net/problem/1182)
-
+  
+* 2020 - 01 - Week4
+  * [연구소](https://www.acmicpc.net/problem/14502)
+  * [부분 수열의 합](https://www.acmicpc.net/problem/1182)
+  * [램프](https://www.acmicpc.net/problem/1034)
+  * [물병](https://www.acmicpc.net/problem/1052)
+  * [유기농 배추](https://www.acmicpc.net/problem/1012)
