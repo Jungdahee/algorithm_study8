@@ -2,8 +2,13 @@
 
 알고리즘 스터디를 위한 공간
 
-## :pushpin: convention rule
+## :pushpin: Convention Rule
 ### 깃허브 ID_문제출처_문제이름.파일명
+
+## :exclamation: study Rule
+#### 매주 일요일 오후 23시 59분까지 깃허브에 소스 코드 제출
+#### 매주 월요일 오후 18시부터 코드 리뷰
+#### 소스 코드 미제출 시 문제 당 500원의 
 
 #### 문제 출처
 * 백준 -> BOJ
