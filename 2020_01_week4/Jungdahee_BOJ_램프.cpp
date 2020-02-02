@@ -1,26 +1,53 @@
-#include <cstdio>
-#include <cstring>
-char c[52][52];
+#include <iostream>
+#include <algorithm>
+#include <string>
+#include <vector>
+using namespace std;
 
-int main(){
-  int max = 0, cnt = 0;
-  int n, m, l;
-  int cnt2;
-  scanf("%d%d", &n, &m);
-  for(int i = 0; i < n; i++){
-    scanf("%s", c[i]);
-  }
-  scanf("%d", &l);
-  for (int i = 0; i < n; i++){
-    cnt = 0;
-    cnt2 = 0;
-    for (int k = 0; k < m; k++) if(c[i][k] == '0') cnt2++;
-    if (cnt2 <= l && cnt2 % 2 == l % 2) {
-      for (int j = 0; j < n; j++){
-        if (strcmp(c[i], c[j]) == 0) cnt++;
-      }
+int n, m, k, result;
+int lamp[50][50];
+
+int count(int i){
+    int cnt = 0;
+    vector<int> v;
+    for(int j = 0; j < m; j++) v.push_back(lamp[i][j]);
+
+    for(int j = 0; j < n; j++){
+        int tmp = 0;
+        for(int k = 0; k < m; k++){
+            if(v[k] == lamp[j][k]) tmp++;
+        }
+        if(tmp == m) cnt++;
     }
-    max = max < cnt ? cnt : max;
-  }
-  printf("%d\n",max);
+    return cnt;
+}
+
+int main(){ //램프
+    cin >> n >> m;
+
+    //#1. 입력 받기
+    string s;
+    for(int i = 0; i < n; i++){
+        cin >> s;
+        for(int j = 0; j < s.size(); j++){
+            lamp[i][j] = s[j] - '0';
+        }
+    }
+
+    cin >> k;
+    for(int i = 0; i < n; i++){
+        int offNum = 0;
+        for(int j = 0; j < m; j++) {
+            if(lamp[i][j] == 0){
+                offNum++;
+            }
+        }
+
+        if(offNum <= k && offNum % 2 == k  % 2) {
+            int cnt = count(i);
+            if(result < cnt) result = cnt;
+        }
+    }
+    cout << result;
+    return 0;
 }
