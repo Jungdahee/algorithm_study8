@@ -37,3 +37,5 @@
   * [램프](https://www.acmicpc.net/problem/1034)
   * [물병](https://www.acmicpc.net/problem/1052)
   * [유기농 배추](https://www.acmicpc.net/problem/1012)
+  
+ * 2020 - 02 - Week1
