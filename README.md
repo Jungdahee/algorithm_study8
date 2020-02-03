@@ -39,3 +39,8 @@
   * [유기농 배추](https://www.acmicpc.net/problem/1012)
   
  * 2020 - 02 - Week1
+  * [수열의 합](https://www.acmicpc.net/problem/1024)
+  * [친구](https://www.acmicpc.net/problem/1058)
+  * [주혁이의 복권당첨](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWh4FhG6Ei4DFAXp&categoryId=AWh4FhG6Ei4DFAXp&categoryType=CODE)
+  * [삼삼 트리플 게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWgqpQV6r8gDFAW0&categoryId=AWgqpQV6r8gDFAW0&categoryType=CODE)
+  * [염라대왕의 이름 정렬](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWqU0zh6rssDFARG&categoryId=AWqU0zh6rssDFARG&categoryType=CODE)
