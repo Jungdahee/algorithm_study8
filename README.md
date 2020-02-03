@@ -38,7 +38,7 @@
   * [물병](https://www.acmicpc.net/problem/1052)
   * [유기농 배추](https://www.acmicpc.net/problem/1012)
   
- * 2020 - 02 - Week1
+* 2020 - 02 - Week1
   * [수열의 합](https://www.acmicpc.net/problem/1024)
   * [친구](https://www.acmicpc.net/problem/1058)
   * [주혁이의 복권당첨](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWh4FhG6Ei4DFAXp&categoryId=AWh4FhG6Ei4DFAXp&categoryType=CODE)
