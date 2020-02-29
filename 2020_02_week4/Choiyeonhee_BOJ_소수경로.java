@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class ¼Ò¼ö_°æ·Î {
+public class Â¼Ã’Â¼Ã¶_Â°Ã¦Â·Ã {
 
 	static class Pair{
 		int x;
@@ -36,7 +36,7 @@ public class ¼Ò¼ö_°æ·Î {
 		}
 	}
 
-	static void eratos() { // ¼Ò¼ö ¾Æ´Ñ°ÍÀÌ true
+	static void eratos() { // Â¼Ã’Â¼Ã¶ Â¾Ã†Â´Ã‘Â°ÃÃ€ÃŒ true
 
 		prime[0] = true;
 		prime[1] = true;
